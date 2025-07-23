@@ -2,6 +2,6 @@
 
 ## Embedding
 | Year | Title | Acronym | Institution | Venue (Conference/Journal) | Code | Comment |
-|------|-------|---------|-------------|----------------------------|------|
-| 2013 | [Distributed Representations of Words and Phrases and their Compositionality](https://arxiv.org/abs/1310.4546) | Word2Vec | Google | NeurIPS | [GitHub](https://github.com/Andras7/word2vec-pytorch/tree/master) | [The Illustrated Word2vec](https://jalammar.github.io/illustrated-word2vec/) |
+|------|-------|---------|-------------|----------------------------|------|---------|
+| 2013 | [Distributed Representations of Words and Phrases and their Compositionality](https://arxiv.org/abs/1310.4546) | Word2Vec | Google | NeurIPS | [Github](https://github.com/Andras7/word2vec-pytorch/tree/master) | [The Illustrated Word2vec](https://jalammar.github.io/illustrated-word2vec/) |
 
