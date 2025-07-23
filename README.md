@@ -3,5 +3,6 @@
 ## Embedding
 | Year | Title | Acronym | Institution | Venue (Conference/Journal) | Code | Comment |
 |------|-------|---------|-------------|----------------------------|------|---------|
-| 2013 | [Distributed Representations of Words and Phrases and their Compositionality](https://arxiv.org/abs/1310.4546) | Word2Vec | Google | NeurIPS | [Github](https://github.com/Andras7/word2vec-pytorch/tree/master) | [The Illustrated Word2vec](https://jalammar.github.io/illustrated-word2vec/) |
-
+| 2013 | [Distributed Representations of Words and Phrases and their Compositionality](https://arxiv.org/abs/1310.4546) | Word2Vec | Google | NeurIPS | [Github](https://github.com/Andras7/word2vec-pytorch) | [The Illustrated Word2vec](https://jalammar.github.io/illustrated-word2vec/) |
+| 2014 | [DeepWalk: Online Learning of Social Representations](https://arxiv.org/abs/1403.6652v2) | DeepWalk | Stony Brook University | KDD | [Github](https://github.com/loginaway/DeepWalk) | [DeepWalk](https://transformerswsz.github.io/2022/09/09/DeepWalk%E8%A7%A3%E8%AF%BB/) |
+| 2015 | [LINE: Large-scale Information Network Embedding](https://arxiv.org/abs/1503.03578) | LINE | MSRA | WWW | [Github](https://github.com/VahidooX/LINE) | [LINE](https://luweikxy.gitbook.io/machine-learning-notes/advanced-knowledge/embedding/network-embedding/line-large-scale-information-network-embedding) |
