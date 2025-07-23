@@ -1,0 +1,3 @@
+# A curated collection of outstanding research papers on Search, Recommendation, and Advertising across both academic and industrial domains. While similar repositories(such as [Awesome-Deep-Learning-Papers-for-Search-Recommendation-Advertising](https://github.com/guyulongcs/Awesome-Deep-Learning-Papers-for-Search-Recommendation-Advertising)) highlight excellent works in the broader field, this repository specifically focuses on generative approaches (e.g., LLMs, diffusion models, and flow-based models) for search and recommendation.
+
+## Embedding
